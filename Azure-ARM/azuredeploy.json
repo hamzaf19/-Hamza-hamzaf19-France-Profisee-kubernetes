@@ -499,7 +499,7 @@
             "dependsOn": ["[resourceId('Microsoft.Resources/deploymentScripts', 'PreReqChecks')]"],
             "sku": {
                 "name": "Base",
-                "tier": "Free"
+                "tier": "Standard"
             },
             "properties": {
                 "kubernetesVersion": "[variables('KubernetesVersion')]",
