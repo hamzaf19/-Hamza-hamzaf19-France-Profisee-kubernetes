@@ -8,7 +8,7 @@ This repository contains all the ways to deploy the Profisee platform to Kuberne
 
 ## Azure-ARM
 
-[Home](https://github.com/profisee/kubernetes/blob/master/Azure-ARM/README.md#deploy-profisee-platform-on-to-aks-using-arm-template) for all the templates to deploy Profisee Platform to AKS via ARM templates.
+[Home](https://github.com/hamzaf19/Profisee-kubernetes/blob/master/Azure-ARM/README.md#deploy-profisee-platform-on-to-aks-using-arm-template) for all the templates to deploy Profisee Platform to AKS via ARM templates.
 
 ## Azure-Powershell
 
